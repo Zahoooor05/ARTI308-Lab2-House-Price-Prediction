@@ -39,4 +39,4 @@ The methodology diagram illustrates the workflow of the project, including datas
 ---
 
 ### Submission
-This repository is submitted as part of **ARTI 308 – Machine Learning (Lab 2)** and meets all assignment requirements.
+This repository is submitted as part of **ARTI 308 – Machine Learning (Lab 2)** .
