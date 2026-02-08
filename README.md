@@ -1,34 +1,7 @@
 # ARTI308-Lab2-House-Price-Prediction
 ### Project Description
-This project focuses on predicting house prices using machine learning techniques. The dataset includes real estate information such as house age, distance to the nearest MRT station, number of nearby convenience stores, and geographic location. The task is a regression problem because the target variable is a numerical value representing house price.
-
----
-
-### Machine Learning Problem
-- **Problem Type:** Regression  
-- **Objective:** Predict the house price of unit area based on property and location features  
-- **Target Variable:** House price of unit area  
-
----
-
-### Dataset Description
-The dataset contains real estate transaction data from an urban area. Each row represents one property transaction. The dataset includes the following features:
-- Transaction date  
-- House age  
-- Distance to the nearest MRT station  
-- Number of convenience stores  
-- Latitude  
-- Longitude  
-
-This dataset is suitable for regression analysis and understanding factors that influence house prices.
-
----
-
-### Files in This Repository
-- `house_price_lab2.ipynb` – Jupyter Notebook for loading and inspecting the dataset  
-- `Real_Estate.csv` – Dataset file  
-- `methodology_diagram.png` – Machine learning methodology diagram  
-- `README.md` – Project documentation  
+This project focuses on predicting house prices using machine learning techniques. The objective is to predict the house price of a unit area based on several property and location-related features. This problem is considered a regression problem because the target variable is a continuous numerical value.
+The dataset used contains real estate transaction data from an urban area. Each row represents a single property transaction and includes features such as house age, distance to the nearest MRT station, number of nearby convenience stores, and geographical location (latitude and longitude). This dataset is suitable for regression analysis and helps in understanding how different factors influence property prices.
 
 ---
 
@@ -36,7 +9,7 @@ This dataset is suitable for regression analysis and understanding factors that 
 
 The dataset loading and inspection steps are implemented in the Jupyter Notebook below:
 
-- [house_price_lab2.ipynb](house_price_lab2.ipynb)
+- [Lab 2 ML_house_price_ml.ipynb](Lab 2 ML_house_price_ml.ipynb)
 
 ---
 
