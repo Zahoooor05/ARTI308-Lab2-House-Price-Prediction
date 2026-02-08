@@ -34,9 +34,8 @@ This dataset is suitable for regression analysis and understanding factors that 
 
 ### Methodology Diagram
 <p align="center">
-  <img src="methodology_diagram.png" width="500">
+  <img src="methodology_diagram.png" width="400">
 </p>
-
 The methodology diagram illustrates the workflow of the project, including dataset selection, data loading, preprocessing, model training, and evaluation.  
 *(The diagram was generated using an AI-assisted tool.)*
 
