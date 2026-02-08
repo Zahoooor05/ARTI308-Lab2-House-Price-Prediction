@@ -32,6 +32,14 @@ This dataset is suitable for regression analysis and understanding factors that 
 
 ---
 
+### Jupyter Notebook
+
+The dataset loading and inspection steps are implemented in the Jupyter Notebook below:
+
+- [house_price_lab2.ipynb](house_price_lab2.ipynb)
+
+---
+
 ### Methodology Diagram
 <p align="center">
   <img src="methodology_diagram.png" width="400">
