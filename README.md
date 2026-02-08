@@ -1,7 +1,6 @@
 # ARTI308-Lab2-House-Price-Prediction
 ### Project Description
-This project focuses on predicting house prices using machine learning techniques. The objective is to predict the house price of a unit area based on several property and location-related features. This problem is considered a regression problem because the target variable is a continuous numerical value.
-The dataset used contains real estate transaction data from an urban area. Each row represents a single property transaction and includes features such as house age, distance to the nearest MRT station, number of nearby convenience stores, and geographical location (latitude and longitude). This dataset is suitable for regression analysis and helps in understanding how different factors influence property prices.
+This project focuses on predicting house prices using machine learning techniques. The objective is to predict the house price of a unit area based on several property and location-related features. This problem is considered a regression problem because the target variable is a continuous numerical value. The dataset used contains real estate transaction data from an urban area. Each row represents a single property transaction and includes features such as house age, distance to the nearest MRT station, number of nearby convenience stores, and geographical location (latitude and longitude). This dataset is suitable for regression analysis and helps in understanding how different factors influence property prices.
 
 ---
 
@@ -9,7 +8,7 @@ The dataset used contains real estate transaction data from an urban area. Each 
 
 The dataset loading and inspection steps are implemented in the Jupyter Notebook below:
 
-- [Lab 2 ML_house_price_ml.ipynb](Lab 2 ML_house_price_ml.ipynb)
+[Lab 2 ML_house_price_ml.ipynb](Lab 2 ML_house_price_ml.ipynb)
 
 ---
 
