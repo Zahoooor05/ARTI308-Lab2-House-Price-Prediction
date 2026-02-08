@@ -8,7 +8,7 @@ This project focuses on predicting house prices using machine learning technique
 
 The dataset loading and inspection steps are implemented in the Jupyter Notebook below:
 
-[View Notebook – Lab 2 ML House Price](https://github.com/USERNAME/REPO-NAME/blob/main/Lab%202%20ML_house_price_ml.ipynb)
+[View Notebook – Lab 2 ML House Price](https://github.com/Zahoooor05/ARTI308-Lab2-House-Price-Prediction/blob/main/Lab%202%20ML_house_price_ml.ipynb)
 
 
 ---
